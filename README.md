@@ -4,7 +4,7 @@ Bem-vindos à organização do projeto de sistema de chat desktop, desenvolvido 
 
 ## 👥 Membros da Equipe
 * **Emanuel Khalil** - Engenharia da Computação (UFRPE/UABJ)
-* **[Nome do seu Colega]** - Engenharia da Computação (UFRPE/UABJ)
+* **Luiz Henrique** - Engenharia da Computação (UFRPE/UABJ)
 
 ## 📋 Sobre o Projeto
 O objetivo deste trabalho é vivenciar na prática conceitos de sockets TCP/IP, multithreading e design de protocolos de comunicação. O sistema permite a troca de mensagens em tempo real entre clientes autenticados através de um servidor centralizado.
